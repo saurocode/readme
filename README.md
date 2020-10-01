@@ -19,6 +19,9 @@ Welcome to my GitHub! I am Sarley, a student in training in analysis and develop
 ### 💡 Goals for 2020
 - Become skilled in JavaScript
 
+### 🔜 Upcoming releases
+- Professional website
+
 <h2 align="center">Feel free to Connect 👥 with me on</h2>
 <p align="center">
 <a href="https://instagram.com/sarleydurango" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sarleydurango" height="30" width="40" /></a>
