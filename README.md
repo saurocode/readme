@@ -1,4 +1,4 @@
-![Hi,](https://user-images.githubusercontent.com/52586225/94867636-36774380-0407-11eb-80e6-6d08b6ea79db.png)
+![Hi,](https://user-images.githubusercontent.com/52586225/101824962-faddb180-3afa-11eb-8016-cc4eb8ba0d45.png)
 
 Welcome to my GitHub! I am Sarley, a student in training in analysis and development of information systems. I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter @sarleydurango
 
