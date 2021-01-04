@@ -16,7 +16,7 @@ Welcome to my GitHub! I am Sarley, a student in training in analysis and develop
 - Design 🎨
 - and anything...
 
-### 💡 Goals for 2020
+### 💡 Goals for 2021
 - Become skilled in JavaScript
 
 ### 🔜 Upcoming releases
