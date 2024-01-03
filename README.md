@@ -6,7 +6,7 @@ Welcome to my GitHub! I am Sauro, a student in training in analysis and developm
 - .NET
 
 ### 👦🏽💻 I'm working on
-- Building projects and my portfolio website. Although, I think I'll wait to learn React before I build the website.
+- Building projects and my portfolio website. Although, I think I'll wait to learn Python before I build the website.
 
 ### 💭 Ask me about
 - Astronomy 🔭
