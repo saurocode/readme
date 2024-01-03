@@ -31,11 +31,4 @@ Welcome to my GitHub! I am Sauro, a student in training in analysis and developm
     </td>
   </tr>
 </table>
-<a href="https://github.com/saurocode">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarleydurango&layout=compact" />
-</a>
-<h2 align="center">Feel free to Connect 👥 with me on</h2>
-<p align="center">
-
-<a href="https://twitter.com/saurocode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saurocode" height="30" width="40" /></a>
 </p>
