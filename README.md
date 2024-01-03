@@ -1,6 +1,3 @@
-![Azul Amarillo Tecnología LinkedIn Banner](https://user-images.githubusercontent.com/52586225/119413746-ea3d8400-bcb3-11eb-969c-fb40ae5bd7ae.png)
-
-
 Welcome to my GitHub! I am Sarley, a student in training in analysis and development of information systems. I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter @saurocode
 
 ### ✔️ I'm currently learning
